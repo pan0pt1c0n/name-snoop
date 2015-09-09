@@ -7,7 +7,7 @@ import sys
 
 if len(sys.argv) != 3:
     print "\n\n             *** DNS-SNOOP ***          "
-    print "   *** Justin Hutchens (HackitHutch) ***          "
+    print "   *** Justin Hutchens (Pan0pt1c0n) ***          "
     print "To perform DNS Cache Snooping on a target DNS Server\n"
     print "Usage - ./dns_snoop.py [DNS Server] [Domain List]"
     print "----------"
